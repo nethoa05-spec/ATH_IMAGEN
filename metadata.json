@@ -1,0 +1,7 @@
+{
+  "name": "athimg",
+  "description": "Professional parallel image generation for consistent characters across multiple scenes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
